@@ -1,2 +1,3 @@
 
 
+![README md](https://github.com/ISPC-TST-SENSORES-y-ACTUADORES-2023/semana2/assets/108839778/e9ff32a2-f3c1-4241-b219-8718b041e349)
